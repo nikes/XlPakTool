@@ -1,3 +1,5 @@
 XLPakTool/bin/
 XLPakTool/obj/
 .vs/
+.idea/
+packages/
